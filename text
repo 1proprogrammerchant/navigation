@@ -1,0 +1,2 @@
+It is strongly recommended that you split your navigation graph into multiple methods as the graph grows in size.
+This also allows multiple modules to contribute their own navigation graphs.
